@@ -1,0 +1,12 @@
+.odd {
+    background-color: rgba(253, 95, 95, 0.849);
+}
+
+#Num2 {
+    color: blue;
+    font-size : 48px;
+}
+#Num4 {
+    font-weight: bold;
+    background-color: greenyellow;
+}
